@@ -1,4 +1,3 @@
-apple,
-lunch,
-chain,
-belt
+Roses are red 
+Voilets are blue
+I need to become the best developer that ever existed
